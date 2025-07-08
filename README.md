@@ -7,7 +7,16 @@ Sou um desenvolvedor web apaixonado por aprender, criar e colaborar. 🚀
 
 - 👨‍💻 **Profissão:** Desenvolvedor Front-end
 - 🎨 **Habilidades:** Comunicação, trabalho em equipe e criatividade
-- ⚛️ **Tecnologias favoritas:** React & Next.js
+- ⚛️ **Tecnologias favoritas:** <div style="display: inline_block"><br>
+  <img align="center" alt="wagner-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="wagner-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="wagner-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="wagner-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="wagner-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="wagner-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="wagner-next.js" height="30" width="40" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000">
+  <img align="center" alt="wagner-next.js" height="30" width="40" src="https://github.com/user-attachments/assets/3b7026de-9d0d-4839-a602-d486d02b9c6f">
+</div>
 
 ## 🚀 Principais projetos
 
@@ -16,9 +25,13 @@ Sou um desenvolvedor web apaixonado por aprender, criar e colaborar. 🚀
 
 *(Quer saber mais sobre algum projeto? Me chame ou confira os repositórios!)*
 
+## 📊 Estatísticas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerxv&layout=donut&theme=radical)](https://github.com/wagnerxv/github-readme-stats)
+
 ## 🌎 Vamos nos conectar?
 
-- [Instagram](https://instagram.com/wagner.nsci)
+  <a href="https://instagram.com/wagner.nsci" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ## 🏊 Curiosidade
 
