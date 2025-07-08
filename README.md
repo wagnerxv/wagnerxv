@@ -5,7 +5,7 @@ Sou um desenvolvedor web apaixonado por aprender, criar e colaborar. 🚀
 
 ## 💡 Sobre mim
 
-- 👨‍💻 **Profissão:** Desenvolvedor Web  
+- 👨‍💻 **Profissão:** Desenvolvedor Front-end
 - 🎨 **Habilidades:** Comunicação, trabalho em equipe e criatividade
 - ⚛️ **Tecnologias favoritas:** React & Next.js
 
