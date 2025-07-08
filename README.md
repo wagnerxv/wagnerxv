@@ -11,8 +11,8 @@ Sou um desenvolvedor web apaixonado por aprender, criar e colaborar. 🚀
 
 ## 🚀 Principais projetos
 
-- [Capacita TG](#)  
-- [PrimeCode Website](#)
+- [Capacita TG](https://github.com/wagnerxv/Capacita-TG.git)  
+- [PrimeCode Website](https://primecodeso.vercel.app/)
 
 *(Quer saber mais sobre algum projeto? Me chame ou confira os repositórios!)*
 
