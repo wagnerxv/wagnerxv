@@ -41,5 +41,3 @@ Adoro praticar esportes — principalmente natação! 🏊‍♂️ Mas também 
 ---
 
 Vamos criar juntos? Sinta-se à vontade para abrir issues, sugerir melhorias ou só dizer um oi! 😄
-
-![GIF animado divertido de programação ou esportes — adicione sua imagem favorita aqui!](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
