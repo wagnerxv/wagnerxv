@@ -28,7 +28,7 @@ Sou um desenvolvedor web apaixonado por aprender, criar e colaborar. 🚀
 ## 📊 Estatísticas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerxv&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerxv&layout=donut&theme=radical)]
+
 
 ## 🌎 Vamos nos conectar?
 
