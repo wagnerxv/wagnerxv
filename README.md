@@ -20,8 +20,8 @@ Sou um desenvolvedor web apaixonado por aprender, criar e colaborar. 🚀
 
 ## 🚀 Principais projetos
 
-- [Capacita TG]([https://capacitatg.vercel.app](https://capacitatg.vercel.app/index.html))  
-- [PrimeCode Website]([primeecode.com.br](https://primeecode.com.br/))
+- ([https://capacitatg.vercel.app](https://capacitatg.vercel.app/index.html))  
+- ([primeecode.com.br](https://primeecode.com.br/))
 
 *(Quer saber mais sobre algum projeto? Me chame ou confira os repositórios!)*
 
